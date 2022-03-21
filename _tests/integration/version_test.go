@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	expectedCLIVersion = "1.48.1"
+	expectedCLIVersion = "1.48.2"
 )
 
 func Test_VersionOutput(t *testing.T) {
