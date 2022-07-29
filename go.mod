@@ -19,3 +19,5 @@ require (
 	golang.org/x/sys v0.0.0-20220712014510-0a85c31ab51e
 	gopkg.in/yaml.v2 v2.4.0
 )
+
+replace github.com/bitrise-io/stepman => github.com/diesel-engineer/stepman v0.0.0-20220729070017-f7ff84cea21f
